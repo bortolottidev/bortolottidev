@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bortolottidev
 - 👀 I’m interested in CLCD (Continuous Learning and Continuous Development) 
-- 🌱 I’m currently learning Node, React and all what is necessary to be a fullstack developer
-- 💞️ I’m looking to collaborate on altruism-oriented project
+- 🌱 I’m currently learning Node, React and Angular - wannabe fullstack developer yeii
+- 💞️ I’m looking to collaborate on altruism-oriented os project
 - 📫 Reach me on https://linkedin.com/in/bortolotti-dev
 
 <!---
