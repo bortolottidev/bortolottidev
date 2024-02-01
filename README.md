@@ -1,5 +1,8 @@
-### Hi there 👋
-
+- 👋 Hi, I’m @bortolottidev, a JS fullstack dev
+- 👀 I'm seeking to make an impact in what I love to do
+- 🌱 I’m currently learning some rusty 🦀 tech and trying to build SaaS thing!
+- 📫 Reach me on https://linkedin.com/in/bortolotti-dev
+- Btw i use NVIM
 <!--
 **bortolottidev/bortolottidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
